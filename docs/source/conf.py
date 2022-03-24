@@ -34,7 +34,11 @@ extensions = [
     'sphinx.ext.duration',
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
+    'subprojecttoctree'
 ]
+
+is_subproject = True
+readthedocs_url = "https://joshua-hampton-rtd-tutorial.readthedocs.io/en/latest/"
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
