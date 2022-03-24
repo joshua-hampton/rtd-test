@@ -14,6 +14,5 @@ Contents
 
 .. toctree::
 
-   usage
-   api
-
+   dinosaurusage
+   dinosaurapi
