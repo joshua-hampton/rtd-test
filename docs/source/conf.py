@@ -38,7 +38,7 @@ extensions = [
 ]
 
 is_subproject = True
-readthedocs_url = "https://joshua-hampton-rtd-tutorial.readthedocs.io/en/latest/"
+readthedocs_url = "https://joshua-hampton-rtd-tutorial.readthedocs.io"
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
